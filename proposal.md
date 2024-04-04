@@ -2,15 +2,15 @@
 
 ## What will (likely) be the title of your project?
 
-Spider-Man 
+Spider-Man Swing Final Project
 
 ## In just a sentence or two, summarize your project. (E.g., "A website that lets you buy and sell stocks.")
 
-TODO
+A 2D sidescrolling game in Godot with a Spider-Man theme based around a swining mechanic.
 
 ## In a paragraph or more, detail your project. What will your software do? What features will it have? How will it be executed?
 
-TODO
+I want my game to be level based, with a goal of three or more. It'll have music, gameplay, and UI. It will be done in Godot. 
 
 ## If planning to combine 1051's final project with another course's final project, with which other course? And which aspect(s) of your proposed project would relate to 1051, and which aspect(s) would relate to the other course?
 
@@ -24,16 +24,16 @@ TODO, if applicable
 
 ### In a sentence (or list of features), define a GOOD outcome for your final project. I.e., what WILL you accomplish no matter what?
 
-TODO
+Having a working menu screen, swinging mechanic, and at least one level.
 
 ### In a sentence (or list of features), define a BETTER outcome for your final project. I.e., what do you THINK you can accomplish before the final project's deadline?
 
-TODO
+Music on all screens, at least three levels.
 
 ### In a sentence (or list of features), define a BEST outcome for your final project. I.e., what do you HOPE to accomplish before the final project's deadline?
 
-TODO
+Original music made, possibly five levels, and original sprites.
 
 ## In a paragraph or more, outline your next steps. What new skills will you need to acquire? What topics will you need to research? If working with one of two classmates, who will do what?
 
-TODO
+I will need to learn how to use Godot, and how to write in GDScript, which I've heard is similar to python. I will also need to either find CC music and sprites and find software that I can use to make my own.
